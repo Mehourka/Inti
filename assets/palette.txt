@@ -1,0 +1,32 @@
+- With #
+
+#F5EACC, #FCE993, #F0C133, #CE7602, #E0AF39, #F9EABE, #4D2712, #4E3C1B, #41545C, #EFF0E9
+
+- Array
+
+["F5EACC","FCE993","F0C133","CE7602","E0AF39","F9EABE","4D2712","4E3C1B","41545C","EFF0E9"]
+
+- Object
+
+{"Parchment":"F5EACC","Flax":"FCE993","Saffron":"F0C133","Ochre":"CE7602","Goldenrod":"E0AF39","Dutch white":"F9EABE","Seal brown":"4D2712","Drab dark brown":"4E3C1B","Outer space":"41545C","Alabaster":"EFF0E9"}
+
+- Extended Array
+
+[{"name":"Parchment","hex":"F5EACC","rgb":[245,234,204],"cmyk":[0,4,17,4],"hsb":[44,17,96],"hsl":[44,67,88],"lab":[93,-1,16]},{"name":"Flax","hex":"FCE993","rgb":[252,233,147],"cmyk":[0,8,42,1],"hsb":[49,42,99],"hsl":[49,95,78],"lab":[92,-5,44]},{"name":"Saffron","hex":"F0C133","rgb":[240,193,51],"cmyk":[0,20,79,6],"hsb":[45,79,94],"hsl":[45,86,57],"lab":[80,4,72]},{"name":"Ochre","hex":"CE7602","rgb":[206,118,2],"cmyk":[0,43,99,19],"hsb":[34,99,81],"hsl":[34,98,41],"lab":[58,28,65]},{"name":"Goldenrod","hex":"E0AF39","rgb":[224,175,57],"cmyk":[0,22,75,12],"hsb":[42,75,88],"hsl":[42,73,55],"lab":[74,7,64]},{"name":"Dutch white","hex":"F9EABE","rgb":[249,234,190],"cmyk":[0,6,24,2],"hsb":[45,24,98],"hsl":[45,83,86],"lab":[93,-2,23]},{"name":"Seal brown","hex":"4D2712","rgb":[77,39,18],"cmyk":[0,49,77,70],"hsb":[21,77,30],"hsl":[21,62,19],"lab":[20,16,21]},{"name":"Drab dark brown","hex":"4E3C1B","rgb":[78,60,27],"cmyk":[0,23,65,69],"hsb":[39,65,31],"hsl":[39,49,21],"lab":[27,3,23]},{"name":"Outer space","hex":"41545C","rgb":[65,84,92],"cmyk":[29,9,0,64],"hsb":[198,29,36],"hsl":[198,17,31],"lab":[34,-5,-7]},{"name":"Alabaster","hex":"EFF0E9","rgb":[239,240,233],"cmyk":[0,0,3,6],"hsb":[69,3,94],"hsl":[69,19,93],"lab":[95,-2,3]}]
+
+- XML
+
+<palette>
+  <color name="Parchment" hex="F5EACC" r="245" g="234" b="204" />
+  <color name="Flax" hex="FCE993" r="252" g="233" b="147" />
+  <color name="Saffron" hex="F0C133" r="240" g="193" b="51" />
+  <color name="Ochre" hex="CE7602" r="206" g="118" b="2" />
+  <color name="Goldenrod" hex="E0AF39" r="224" g="175" b="57" />
+  <color name="Dutch white" hex="F9EABE" r="249" g="234" b="190" />
+  <color name="Seal brown" hex="4D2712" r="77" g="39" b="18" />
+  <color name="Drab dark brown" hex="4E3C1B" r="78" g="60" b="27" />
+  <color name="Outer space" hex="41545C" r="65" g="84" b="92" />
+  <color name="Alabaster" hex="EFF0E9" r="239" g="240" b="233" />
+  <color name="Inti" hex="fac463" r="239" g="240" b="233" />
+
+</palette>
